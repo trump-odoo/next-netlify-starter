@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Olá Paty este é no nosso site!" />
+        <Header title="Olá Paty este é nosso site!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
