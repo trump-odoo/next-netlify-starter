@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Wordclock by H-Quântico</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Olá Paty este é no nosso site!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
